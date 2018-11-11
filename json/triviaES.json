@@ -1,0 +1,53 @@
+{
+  "Questions" : 1,
+  "Trivia": [
+    {
+      "Question": "¿Que pais tiene esta bandera?",
+      "Alternatives": ["CHILE", "ARGENTINA", "PARAGUAY", "BOLIVIA"],
+      "Image" : "Images/Countries/cl", 
+      "Correct": "CHILE"
+    },
+    {
+      "Question": "¿Que pais tiene esta bandera?",
+      "Alternatives": ["CAMERUN", "COSTA DE MARFIL", "NIGERIA", "BUTAN"],
+      "Image" : "Images/Countries/cm", 
+      "Correct": "CAMERUN"
+    },
+    {
+      "Question": "¿Que pais tiene esta bandera?",
+      "Alternatives": ["VIETNAM", "BANGLADESH", "ISRAEL", "SENEGAL"],
+      "Image" : "Images/Countries/bd", 
+      "Correct": "BANGLADESH"
+    },
+    {
+      "Question": "¿Que pais tiene esta bandera?",
+      "Alternatives": ["IRAN", "MACEDONIA", "CANADA", "SINGAPUR"],
+      "Image" : "Images/Countries/mk", 
+      "Correct": "MACEDONIA"
+    },
+    {
+      "Question": "¿Que pais tiene esta bandera?",
+      "Alternatives": ["CHINA", "JAPON", "COREA DEL NORTE", "SIRIA"],
+      "Image" : "Images/Countries/cn", 
+      "Correct": "CHINA"
+    },
+    {
+      "Question": "¿Que pais tiene esta bandera?",
+      "Alternatives": ["KUWAIT", "YEMEN", "RUMANIA", "BOLIVIA"],
+      "Image" : "Images/Countries/ro", 
+      "Correct": "RUMANIA"
+    },
+    {
+      "Question": "¿Que pais tiene esta bandera?",
+      "Alternatives": ["FINLANDIA", "DINAMARCA", "SUIZA", "BELGICA"],
+      "Image" : "Images/Countries/dk", 
+      "Correct": "CHILE"
+    },
+    {
+      "Question": "¿Que pais tiene esta bandera?",
+      "Alternatives": ["RUANDA", "LIBANO", "KENIA", "MOROCCO"],
+      "Image" : "Images/Countries/rw", 
+      "Correct": "RUANDA"
+    }
+  ]	
+}
