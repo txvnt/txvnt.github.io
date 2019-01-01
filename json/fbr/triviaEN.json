@@ -1,0 +1,442 @@
+{
+  "Items": [
+    {
+      "Question": "What game engine does Fortnite run on?",
+      "Alternatives": [ "iD Tech 3", "Unity", "Unreal Engine 4", "Forgelight Engine" ],
+      "Correct": "Unreal Engine 4",
+      "Image": ""
+    },
+    {
+      "Question": "What company developed Fortnite?",
+      "Alternatives": [ "Epic Games", "Valve", "Epic Gameplays", "Bluehole" ],
+      "Correct": "Epic Games",
+      "Image": ""
+    },
+    {
+      "Question": "Usually, what color is the balloon on the battle bus?",
+      "Alternatives": [ "Red/White", "Blue/White", "Grey/White", "Yellow/White" ],
+      "Correct": "Blue/White",
+      "Image": ""
+    },
+    {
+      "Question": "How many levels of weapons are there at Fortnite: Battle Royale?",
+      "Alternatives": [ "4", "5", "6", "7" ],
+      "Correct": "5",
+      "Image": ""
+    },
+    {
+      "Question": "When was Fortnite's Battle Royale game mode released to the public?",
+      "Alternatives": [ "September 2017", "May 2017", "October 2017", "March 2017" ],
+      "Correct": "September 2017",
+      "Image": ""
+    },
+    {
+      "Question": "How many seconds does it take to use a Chug Jug?",
+      "Alternatives": [ "8", "10", "12", "15" ],
+      "Correct": "15",
+      "Image": ""
+    },
+    {
+      "Question": "How much healing does a Chug Jug offer?",
+      "Alternatives": [ "80", "90", "100", "120" ],
+      "Correct": "100",
+      "Image": ""
+    },
+    {
+      "Question": "How much healing does a Bandage offer?",
+      "Alternatives": [ "5", "10", "15", "20" ],
+      "Correct": "15",
+      "Image": ""
+    },
+    {
+      "Question": "How much healing does an Apple offer?",
+      "Alternatives": [ "1", "2", "10", "5" ],
+      "Correct": "5",
+      "Image": ""
+    },
+    {
+      "Question": "How much healing does a Mushroom offer?",
+      "Alternatives": [ "2", "3", "4", "5" ],
+      "Correct": "5",
+      "Image": ""
+    },
+    {
+      "Question": "How much healing does a Medkit offer?",
+      "Alternatives": [ "50", "75", "100", "125" ],
+      "Correct": "100",
+      "Image": ""
+    },
+    {
+      "Question": "How much restoration does a Shield Potion offer?",
+      "Alternatives": [ "25", "50", "75", "100" ],
+      "Correct": "50",
+      "Image": ""
+    },
+    {
+      "Question": "How much healing does a Slurp Juice offer?",
+      "Alternatives": [ "50", "75", "100", "125" ],
+      "Correct": "75",
+      "Image": ""
+    },
+    {
+      "Question": "How much restoration does a Chug Jug offer?",
+      "Alternatives": [ "75", "100", "150", "200" ],
+      "Correct": "100",
+      "Image": ""
+    },
+    {
+      "Question": "Fortnite added a special harvesting tool for the popular streamer, Ninja: what was it?",
+      "Alternatives": [ "Plunja", "Broomja", "Bootja", "Toolja" ],
+      "Correct": "Plunja",
+      "Image": ""
+    },
+    {
+      "Question": "Which of these areas wasn't in the initial Fortnite release?",
+      "Alternatives": [ "Wailing Woods", "Fatal Field", "Shifty Shafts", "Retail Row" ],
+      "Correct": "Shifty Shafts",
+      "Image": ""
+    },
+    {
+      "Question": "How many players participate in Fortnite battle royale?",
+      "Alternatives": [ "50", "80", "100", "200" ],
+      "Correct": "100",
+      "Image": ""
+    },
+    {
+      "Question": "How much damage does a Grenade deal?",
+      "Alternatives": [ "50", "75", "100", "125" ],
+      "Correct": "100",
+      "Image": ""
+    },
+    {
+      "Question": "How much damage does Dynamite deal?",
+      "Alternatives": [ "60", "70", "80", "100" ],
+      "Correct": "70",
+      "Image": ""
+    },
+    {
+      "Question": "How much time does a Boogie Bomb last?",
+      "Alternatives": [ "3s", "4s", "5s", "6s" ],
+      "Correct": "5s",
+      "Image": ""
+    },
+    {
+      "Question": "How much time does a Medkit take to use?",
+      "Alternatives": [ "8s", "10s", "12s", "15s" ],
+      "Correct": "10s",
+      "Image": ""
+    },
+    {
+      "Question": "How many rarities of weapons are there",
+      "Alternatives": [ "4", "5", "6", "7" ],
+      "Correct": "5",
+      "Image": ""
+    },
+    {
+      "Question": "Which of these is not a weapon rarity?",
+      "Alternatives": [ "Common", "Very common", "Rare", "Epic" ],
+      "Correct": "Very common",
+      "Image": ""
+    },
+    {
+      "Question": "The 'Renegade' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Uncommon",
+      "Image": "triviaImages/renegade"
+    },
+    {
+      "Question": "The 'Midnight Ops' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Rare",
+      "Image": "triviaImages/midnightOps"
+    },
+    {
+      "Question": "The 'Mayhem' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Rare",
+      "Image": "triviaImages/mayhem"
+    },
+    {
+      "Question": "The 'Sushi Master' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Rare",
+      "Image": "triviaImages/sushiMaster"
+    },
+    {
+      "Question": "The 'Riot' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Rare",
+      "Image": "triviaImages/riot"
+    },
+    {
+      "Question": "The 'Hyperion' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Rare",
+      "Image": "triviaImages/hyperion"
+    },
+    {
+      "Question": "The 'Cipher' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Rare",
+      "Image": "triviaImages/cipher"
+    },
+    {
+      "Question": "The 'Bullseye' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Uncommon",
+      "Image": "triviaImages/bullseye"
+    },
+    {
+      "Question": "The 'Commando' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Uncommon",
+      "Image": "triviaImages/commando"
+    },
+    {
+      "Question": "The 'Liteshow' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Uncommon",
+      "Image": "triviaImages/liteshow"
+    },
+    {
+      "Question": "The 'Striped Soldier' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Uncommon",
+      "Image": "triviaImages/stripedSoldier"
+    },
+    {
+      "Question": "The 'Whiplash' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Uncommon",
+      "Image": "triviaImages/whiplash"
+    },
+    {
+      "Question": "The 'Pathfinder' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Uncommon",
+      "Image": "triviaImages/pathfinder"
+    },
+    {
+      "Question": "The 'Blitz' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/blitz"
+    },
+    {
+      "Question": "The 'Bandolier' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/bandolier"
+    },
+    {
+      "Question": "The 'Castor' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/castor"
+    },
+    {
+      "Question": "The 'Fable' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/fable"
+    },
+    {
+      "Question": "The 'Heidi' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/heidi"
+    },
+    {
+      "Question": "The 'Moonwalker' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/moonwalker"
+    },
+    {
+      "Question": "The 'Nightshade' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/nightshade"
+    },
+    {
+      "Question": "The 'Noir' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/noi"
+    },
+    {
+      "Question": "The 'Shade' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/shade"
+    },
+    {
+      "Question": "The 'Sleuth' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/sleuth"
+    },
+    {
+      "Question": "The 'Stage Slayer' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/stageSlayer"
+    },
+    {
+      "Question": "The 'Sun Strider' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/sunStrider"
+    },
+    {
+      "Question": "The 'Taro' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/taro"
+    },
+    {
+      "Question": "The 'Tender Defender' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/tenderDefender"
+    },
+    {
+      "Question": "The 'Trog' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/trog"
+    },
+    {
+      "Question": "The 'Ventura' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Epic",
+      "Image": "triviaImages/ventura"
+    },
+    {
+      "Question": "The 'A.I.M.' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/aim"
+    },
+    {
+      "Question": "The 'Calamity' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/calamity"
+    },
+    {
+      "Question": "The 'Carbide' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/carbide"
+    },
+    {
+      "Question": "The 'Criterion' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/criterion"
+    },
+    {
+      "Question": "The 'Deadfire' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/deadFire"
+    },
+    {
+      "Question": "The 'Dire' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/dire"
+    },
+    {
+      "Question": "The 'Fate' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/fate"
+    },
+    {
+      "Question": "The 'Enforcer' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/enforcer"
+    },
+    {
+      "Question": "The 'Leviathan' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/leviathan"
+    },
+    {
+      "Question": "The 'Frostbite' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/frostbite"
+    },
+    {
+      "Question": "The 'Lynx' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/lynx"
+    },
+    {
+      "Question": "The 'Musha' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/musha"
+    },
+    {
+      "Question": "The 'Omen' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/omen"
+    },
+    {
+      "Question": "The 'Ragnarok' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/ragnarok"
+    },
+    {
+      "Question": "The 'Rex' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/rex"
+    },
+    {
+      "Question": "The 'Shogun' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/shogun"
+    },
+    {
+      "Question": "The 'Vertex' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/vertex"
+    },
+    {
+      "Question": "The 'Warpaint' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/warpaint"
+    },
+    {
+      "Question": "The 'Wukong' outfit is: ",
+      "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
+      "Correct": "Legendary",
+      "Image": "triviaImages/wukong"
+    },
+    {
+      "Question": "How much time does a Medkit take to use?",
+      "Alternatives": [ "8s", "10s", "12s", "15s" ],
+      "Correct": "10s",
+      "Image": ""
+    },
+    {
+      "Question": "How much time does a Medkit take to use?",
+      "Alternatives": [ "8s", "10s", "12s", "15s" ],
+      "Correct": "10s",
+      "Image": ""
+    },
+  ]
+}
