@@ -143,289 +143,289 @@
       "Question": "The 'Renegade' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Uncommon",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/renegade.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/renegade.png"
     },
     {
       "Question": "The 'Midnight Ops' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Rare",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/midnightOps.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/midnightOps.png"
     },
     {
       "Question": "The 'Mayhem' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Rare",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/mayhem.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/mayhem.png"
     },
     {
       "Question": "The 'Sushi Master' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Rare",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/sushiMaster.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/sushiMaster.png"
     },
     {
       "Question": "The 'Riot' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Rare",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/riot.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/riot.png"
     },
     {
       "Question": "The 'Hyperion' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Rare",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/hyperion.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/hyperion.png"
     },
     {
       "Question": "The 'Cipher' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Rare",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/cipher.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/cipher.png"
     },
     {
       "Question": "The 'Bullseye' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Uncommon",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/bullseye.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/bullseye.png"
     },
     {
       "Question": "The 'Commando' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Uncommon",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/commando.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/commando.png"
     },
     {
       "Question": "The 'Liteshow' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Uncommon",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/liteshow.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/liteshow.png"
     },
     {
       "Question": "The 'Striped Soldier' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Uncommon",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/stripedSoldier.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/stripedSoldier.png"
     },
     {
       "Question": "The 'Whiplash' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Uncommon",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/whiplash.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/whiplash.png"
     },
     {
       "Question": "The 'Pathfinder' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Uncommon",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/pathfinder.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/pathfinder.png"
     },
     {
       "Question": "The 'Blitz' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/blitz.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/blitz.png"
     },
     {
       "Question": "The 'Bandolier' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/bandolier.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/bandolier.png"
     },
     {
       "Question": "The 'Castor' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/castor.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/castor.png"
     },
     {
       "Question": "The 'Fable' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/fable.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/fable.png"
     },
     {
       "Question": "The 'Heidi' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/heidi.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/heidi.png"
     },
     {
       "Question": "The 'Moonwalker' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/moonwalker.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/moonwalker.png"
     },
     {
       "Question": "The 'Nightshade' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/nightshade.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/nightshade.png"
     },
     {
       "Question": "The 'Noir' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/noi.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/noi.png"
     },
     {
       "Question": "The 'Shade' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/shade.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/shade.png"
     },
     {
       "Question": "The 'Sleuth' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/sleuth.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/sleuth.png"
     },
     {
       "Question": "The 'Stage Slayer' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/stageSlayer.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/stageSlayer.png"
     },
     {
       "Question": "The 'Sun Strider' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/sunStrider.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/sunStrider.png"
     },
     {
       "Question": "The 'Taro' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/taro.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/taro.png"
     },
     {
       "Question": "The 'Tender Defender' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/tenderDefender.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/tenderDefender.png"
     },
     {
       "Question": "The 'Trog' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/trog.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/trog.png"
     },
     {
       "Question": "The 'Ventura' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Epic",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/ventura.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/ventura.png"
     },
     {
       "Question": "The 'A.I.M.' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/aim.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/aim.png"
     },
     {
       "Question": "The 'Calamity' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/calamity.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/calamity.png"
     },
     {
       "Question": "The 'Carbide' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/carbide.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/carbide.png"
     },
     {
       "Question": "The 'Criterion' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/criterion.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/criterion.png"
     },
     {
       "Question": "The 'Deadfire' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/deadFire.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/deadFire.png"
     },
     {
       "Question": "The 'Dire' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/dire.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/dire.png"
     },
     {
       "Question": "The 'Fate' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/fate.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/fate.png"
     },
     {
       "Question": "The 'Enforcer' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/enforcer.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/enforcer.png"
     },
     {
       "Question": "The 'Leviathan' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/leviathan.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/leviathan.png"
     },
     {
       "Question": "The 'Frostbite' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/frostbite.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/frostbite.png"
     },
     {
       "Question": "The 'Lynx' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/lynx.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/lynx.png"
     },
     {
       "Question": "The 'Musha' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/musha.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/musha.png"
     },
     {
       "Question": "The 'Omen' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/omen.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/omen.png"
     },
     {
       "Question": "The 'Ragnarok' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/ragnarok.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/ragnarok.png"
     },
     {
       "Question": "The 'Rex' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/rex.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/rex.png"
     },
     {
       "Question": "The 'Shogun' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/shogun.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/shogun.png"
     },
     {
       "Question": "The 'Vertex' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/vertex.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/vertex.png"
     },
     {
       "Question": "The 'Warpaint' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/warpaint.png"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/warpaint.png"
     },
     {
       "Question": "The 'Wukong' outfit is: ",
       "Alternatives": [ "Common", "Uncommon", "Rare", "Legendary" ],
       "Correct": "Legendary",
-      "Image": "https://txvnt.github/json/fbr/triviaImages/wukong"
+      "Image": "https://raw.githubusercontent.com/txvnt/txvnt.github.io/master/json/fbr/triviaImages/wukong"
     }
   ]
 }
