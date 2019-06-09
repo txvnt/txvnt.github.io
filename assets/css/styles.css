@@ -1,0 +1,12 @@
+ul li{
+    display:inline;
+    margin: 24px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+
+#header-nav {
+    margin:16px;
+    display: inline;
+}

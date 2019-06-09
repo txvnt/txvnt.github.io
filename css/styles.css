@@ -1,0 +1,201 @@
+@font-face {
+    font-family: "Larsseit";
+    src: url(/assets/fonts/Larsseit.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Larsseit-Bold";
+    src: url(/assets/fonts/Larsseit-Bold.ttf) format("truetype");
+}
+
+body {
+    margin:0;
+    padding-bottom: 32px;
+    background-color: rgb(243, 243, 243);
+}
+
+.header-item{
+    display:inline;
+    margin: 24px;
+    text-transform: uppercase;
+}
+
+.header-item-text{
+    color:#dbdbdb;
+    font-family: Roboto Mono, Larsseit-Bold, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.header-item-text:hover{
+    color:#fff;
+}
+
+.header-container {
+    background: rgba(216,208,239,1);
+    background: -moz-linear-gradient(left, rgba(216,208,239,1) 0%, rgba(0,43,255,1) 0%, rgba(119,42,235,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(216,208,239,1)), color-stop(0%, rgba(0,43,255,1)), color-stop(100%, rgba(119,42,235,1)));
+    background: -webkit-linear-gradient(left, rgba(216,208,239,1) 0%, rgba(0,43,255,1) 0%, rgba(119,42,235,1) 100%);
+    background: -o-linear-gradient(left, rgba(216,208,239,1) 0%, rgba(0,43,255,1) 0%, rgba(119,42,235,1) 100%);
+    background: -ms-linear-gradient(left, rgba(216,208,239,1) 0%, rgba(0,43,255,1) 0%, rgba(119,42,235,1) 100%);
+    background: linear-gradient(to right, rgba(216,208,239,1) 0%, rgba(0,43,255,1) 0%, rgba(119,42,235,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8d0ef', endColorstr='#772aeb', GradientType=1 );
+    display:flex;
+    flex-direction: column;
+    height: 400px;
+}
+
+#header-nav {
+    display:flex;
+    align-items: center;
+    flex:1;
+}
+
+.info-container{
+    flex:4;
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+}
+
+#me-photo-container{
+    display: flex;
+    flex:1;
+    justify-content: center;
+}
+
+#me-photo-container img{
+    height: 360px;
+    border-radius: 20px;
+    position: absolute;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1), 0 6px 6px rgba(0,0,0,0.1);
+}
+
+#me-info{
+    display: flex;
+    flex-direction: column;
+    flex:2;
+}
+
+#me-info h1{
+    color:#fff;
+    font-family: Larsseit-Bold;
+    font-size: 42px;
+}
+
+#me-info-details{
+    display: flex;
+    flex-direction: row;
+}
+
+#me-info-details h3{
+    color:#FFF;
+    font-family: Roboto Mono, Larsseit;
+    font-size: 16px;
+}
+#me-info-details h3 a{
+    color:#FFF;
+    text-decoration: none;
+}
+#me-info-details h3 a:hover{
+    color:#FFF;
+    font-style:italic;
+    text-decoration: underline;
+}
+
+#rrss-container{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 24px;
+    justify-content: flex-start;
+}
+
+#rrss-container a{
+    color:rgba(255,255,255,0.6);
+    font-size: 24px;
+    margin-right: 12px;
+}
+
+#rrss-container a:hover{
+    color:white;
+    margin-right: 12px;
+}
+
+.content-container{
+    display: flex;
+    flex:1;
+    padding-top: 64px;
+    flex-direction: column;
+}
+
+.title{
+    font-family: Roboto Mono;
+}
+
+.subtitle{
+    font-family: Roboto Mono;
+    text-transform: uppercase;
+    color:#a7a7a7;
+    letter-spacing: 6px;
+}
+
+.paragraph{
+    font-family: Larsseit;
+    font-size:18px;
+    color:#696969;
+}
+
+.block{
+    margin:0px 64px 0px 64px;
+}
+
+.exp-card{
+    background-color:white;
+    padding:16px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 16px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05), 0 6px 6px rgba(0,0,0,0.05);
+    margin-bottom: 8px;
+}
+
+.left-side-card{
+    display: flex;
+    flex:1;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-side-card img{
+    width:70%;
+}
+
+.right-side-card{
+    display: flex;
+    flex:5;
+    align-items: center;
+    justify-content: center;
+}
+
+.right-side-card span{
+    flex:3;
+}
+
+.right-side-card h5{
+    color:#808080;
+    margin:4px;
+    font-family: Larsseit;
+}
+
+.right-side-card h3{
+    color:#000;
+    margin:4px;
+    font-family: Roboto Mono;
+}
+
+.right-side-card h4{
+    display: flex;
+    padding-left: 30px;
+    flex:1;
+    color:#808080;
+    font-family: Larsseit;
+}
