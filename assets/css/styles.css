@@ -1,12 +1,263 @@
-ul li{
+@font-face {
+    font-family: "Larsseit";
+    src: url(/assets/fonts/Larsseit.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Larsseit-Bold";
+    src: url(/assets/fonts/Larsseit-Bold.ttf) format("truetype");
+}
+
+:root {
+    --exp-flex-direction:row;
+    --card-flex-direction:row;
+    --longevity-margin:4px;
+    --right-side-margin:0px;
+    --profile-pic-visibility:visible;
+    --secondary-profile-pic-visibility:hidden;
+    --secondary-profile-pic-position:absolute;
+    --photo-container-flex:1;
+    --profile-picture-height:360px;
+    --about-me-info-margin:0px;
+}
+
+@media (max-width: 920px) {
+    :root {
+        --exp-flex-direction:column;
+        --profile-picture-height:260px;
+    }
+}
+
+@media (max-width: 580px) {
+    :root {
+        --card-flex-direction:column;
+        --longevity-margin:0px;
+        --right-side-margin:16px;
+        --profile-pic-visibility:hidden;
+        --secondary-profile-pic-visibility:visible;
+        --secondary-profile-pic-position:relative;
+        --photo-container-flex:0;
+        --about-me-info-margin:32px;
+    }
+}
+
+body {
+    margin:0;
+    padding-bottom: 32px;
+    background-color: rgb(243, 243, 243);
+}
+
+.header-item{
     display:inline;
     margin: 24px;
     text-transform: uppercase;
-    text-decoration: none;
+}
 
+.header-item-text{
+    color:#dbdbdb;
+    font-family: Roboto Mono, Larsseit-Bold, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.header-item-text:hover{
+    color:#fff;
+}
+
+.header-container {
+    width: 100%;
+    background: rgba(216,208,239,1);
+    background: -moz-linear-gradient(left, rgba(216,208,239,1) 0%, rgba(0,43,255,1) 0%, rgba(119,42,235,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(216,208,239,1)), color-stop(0%, rgba(0,43,255,1)), color-stop(100%, rgba(119,42,235,1)));
+    background: -webkit-linear-gradient(left, rgba(216,208,239,1) 0%, rgba(0,43,255,1) 0%, rgba(119,42,235,1) 100%);
+    background: -o-linear-gradient(left, rgba(216,208,239,1) 0%, rgba(0,43,255,1) 0%, rgba(119,42,235,1) 100%);
+    background: -ms-linear-gradient(left, rgba(216,208,239,1) 0%, rgba(0,43,255,1) 0%, rgba(119,42,235,1) 100%);
+    background: linear-gradient(to right, rgba(216,208,239,1) 0%, rgba(0,43,255,1) 0%, rgba(119,42,235,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8d0ef', endColorstr='#772aeb', GradientType=1 );
+    display:flex;
+    flex-direction: column;
 }
 
 #header-nav {
-    margin:16px;
-    display: inline;
+    display:flex;
+    align-items: center;
+    flex:1;
+}
+
+.info-container{
+    flex:4;
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+    margin-left: var(--about-me-info-margin);
+    margin-right:var(--about-me-info-margin);
+}
+
+#me-photo-container{
+    display: flex;
+    width:300px;
+    flex:var(--photo-container-flex);
+    justify-content: center;
+}
+
+#me-secondary-photo-container{
+    display: flex;
+    flex:var(--photo-container-flex);
+    position: var(--secondary-profile-pic-position);
+    justify-content: center;
+    visibility: var(--secondary-profile-pic-visibility);
+}
+
+#me-secondary-photo-container img{
+    width:100%;
+    height:300px;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1), 0 6px 6px rgba(0,0,0,0.1);
+}
+
+
+#me-photo-container img{
+    height: var(--profile-picture-height);
+    border-radius: 20px;
+    position: absolute;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1), 0 6px 6px rgba(0,0,0,0.1);
+    visibility: var(--profile-pic-visibility);
+}
+
+#me-info{
+    display: flex;
+    flex-direction: column;
+    flex:2;
+}
+
+#me-info h1{
+    color:#fff;
+    font-family: Larsseit-Bold;
+    font-size: 42px;
+}
+
+#me-info-details{
+    display: flex;
+    flex-direction: row;
+}
+
+#me-info-details h3{
+    color:#FFF;
+    font-family: Roboto Mono, Larsseit;
+    font-size: 16px;
+}
+#me-info-details h3 a{
+    color:#FFF;
+    text-decoration: none;
+}
+#me-info-details h3 a:hover{
+    color:#FFF;
+    font-style:italic;
+    text-decoration: underline;
+}
+
+#rrss-container{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 24px;
+    justify-content: flex-start;
+}
+
+#rrss-container a{
+    color:rgba(255,255,255,0.6);
+    font-size: 24px;
+    margin-right: 12px;
+}
+
+#rrss-container a:hover{
+    color:white;
+    margin-right: 12px;
+}
+
+.content-container{
+    display: flex;
+    flex:1;
+    padding-top: 64px;
+    flex-direction: column;
+}
+
+.title{
+    font-family: Roboto Mono;
+}
+
+.subtitle{
+    font-family: Roboto Mono;
+    text-transform: uppercase;
+    color:#a7a7a7;
+    letter-spacing: 6px;
+}
+
+.paragraph{
+    font-family: Larsseit;
+    font-size:18px;
+    color:#696969;
+}
+
+.block{
+    margin:0px 64px 0px 64px;
+}
+
+.resume-container{
+    display:flex;
+    flex-flow: var(--exp-flex-direction,row);
+}
+
+.exp-card{
+    background-color:white;
+    padding:16px;
+    display: flex;
+    flex-direction: var(--card-flex-direction);
+    border-radius: 16px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05), 0 6px 6px rgba(0,0,0,0.05);
+    margin-bottom: 8px;
+}
+
+.left-side-card{
+    display: flex;
+    flex:1;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-side-card img{
+    width:70%;
+    border-radius: 50%;
+}
+
+.right-side-card{
+    display: flex;
+    flex:5;
+    flex-direction: var(--card-flex-direction);
+    align-items: center;
+    margin-top: var(--right-side-margin);
+    justify-content: center;
+}
+
+.right-side-card span{
+    flex:3;
+}
+
+.right-side-card h5{
+    color:#808080;
+    margin:var(--longevity-margin);
+    font-family: Larsseit;
+}
+
+.right-side-card h3{
+    color:#000;
+    margin:4px;
+    font-family: Roboto Mono;
+}
+
+.right-side-card h4{
+    display: flex;
+    padding-left: 30px;
+    flex:1;
+    color:#808080;
+    font-family: Larsseit;
 }
